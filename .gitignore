@@ -1,0 +1,4 @@
+# Filtro básico para Godot
+.godot/
+.import/
+export_presets.cfg
